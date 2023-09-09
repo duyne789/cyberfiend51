@@ -1,0 +1,28 @@
+h1 {
+  color: #331f2ce6;
+}
+#theme {
+  background-color: #afccc0e6;
+  text-align: center;
+  padding: 80px;
+}
+nav {
+  background-color: #4f4f4ee6;
+  padding: 14px 20px;
+  text-align: center;
+}
+nav a {
+  color: black;
+  padding: 14px 20px;
+  text-align: center;
+  text-decoration: none;
+}
+nav a:hover {
+  background-color: #DDD;
+  color: black;
+}
+footer {
+  background-color: #c0c0a2e6;
+  color-interpolation: #DDD;
+  text-align: center;
+}
